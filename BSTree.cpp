@@ -1,5 +1,5 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
 *  ================================================
@@ -117,6 +117,8 @@ bool BSTree<Type>::find(Type key, BTreeNode<Type> * r) {
 		if (r->data < key)
 			return find(key, r->right);
 	}
+	
+	return false;
 }
 
 template <class Type>
