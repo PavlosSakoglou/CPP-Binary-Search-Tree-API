@@ -21,4 +21,4 @@ Standard templated BSTree API writen in C++ with basic functionality
 
 # Usage
 
-No extra dependencies except STL. Create a new project (console application), include the files, and run it.
+No extra dependencies except STL. Compile all files and run them.
