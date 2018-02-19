@@ -1,8 +1,8 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
-*  ================================================
+*  =================================================
 *
 *	Standard Binary Search Tree API Test file
 *
