@@ -2,7 +2,7 @@
 *	© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
-*  =======================================================
+*  ========================================================
 *
 *	Standard Binary Search Tree API Implementation
 *
