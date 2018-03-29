@@ -60,5 +60,4 @@ private:
 #include "BSTree.cpp"
 #endif
 
-
 #endif //!BSTREE_HPP
